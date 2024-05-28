@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Projects/_contrib/nixpkgs"
+		}
+	],
+	"settings": {}
+}
