@@ -9,3 +9,4 @@ Repository for my Nix Packages.
 # References
 
 - https://github.com/Izorkin/nur-packages
+- https://github.com/xeals/nur-packages
